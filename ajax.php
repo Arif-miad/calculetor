@@ -93,7 +93,7 @@ if($action == "save_payment"){
 if($action == "delete_payment"){
 	$save = $crud->delete_payment();
 	if($save)
-		echo $save;
+		echo $save; 
 }
 
 

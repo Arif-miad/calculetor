@@ -101,4 +101,4 @@ function delete_borrower($id){
 			}
 		})
 	}
-</script>
+</script> 
